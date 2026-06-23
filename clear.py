@@ -1,9 +1,10 @@
 from pathlib import Path
 
-directory =[r"C:\Users\Jed\Codeforces\EASY",
-            r"C:\Users\Jed\Codeforces\MEDIUM",
-            r"C:\Users\Jed\Codeforces\LEARNING",
-            r"C:\Users\Jed\Codeforces\SLIGHTLY ABOVE MEDIUM"
+directory =[r"/home/odiedo123/Codeforces/EASY",
+            r"/home/odiedo123/Codeforces/HARD",
+            r"/home/odiedo123/Codeforces/MEDIUM",
+            r"/home/odiedo123/Codeforces/LEARNING",
+            r"/home/odiedo123/Codeforces/SLIGHTLY ABOVE MEDIUM"
 ]
 
 keep_extensions = {".cpp", ".obj", ".py"}
